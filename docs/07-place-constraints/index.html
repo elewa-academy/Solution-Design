@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>2. Assess Available Info · GitBook</title>
+        <title>7. Place Constraints · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.2">
@@ -61,10 +61,10 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="../03-classify-possible-inputs/" />
+    <link rel="next" href="../08-estimate-resources/" />
     
     
-    <link rel="prev" href="../01-understand-the-challenge/" />
+    <link rel="prev" href="../sections/b-implementation.html" />
     
 
     </head>
@@ -146,9 +146,9 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.3.2" data-path="./">
+        <li class="chapter " data-level="1.3.2" data-path="../02-assess-available-info/">
             
-                <a href="./">
+                <a href="../02-assess-available-info/">
             
                     
                     2. Assess Available Info
@@ -230,9 +230,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.4.1" data-path="../07-place-constraints/">
+        <li class="chapter active" data-level="1.4.1" data-path="./">
             
-                <a href="../07-place-constraints/">
+                <a href="./">
             
                     
                     7. Place Constraints
@@ -460,7 +460,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href=".." >2. Assess Available Info</a>
+        <a href=".." >7. Place Constraints</a>
     </h1>
 </div>
 
@@ -475,18 +475,42 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="assess-available-information">Assess Available Information</h1>
-<p>What information do the arguments contain that might be useful to your solution strategy?  Since your function won&apos;t have access to anything but the arguments passed in, take some time to figure out what you can learn from them. </p>
-<p>Examples of potentially useful information:</p>
+                                <h1 id="place-constraints">Place Constraints</h1>
+<p>Place some interesting constraints on your solution, describe them in your README&apos;s &quot;Constraints&quot; section and why you selected those particular constraints.  </p>
+<p>You may ask &quot;why make my work harder?&quot;  The reality is that your projects will always be tightly bound by constraints, some are under your control but most are not.  Taking time now to intentionally explore the effect of different constraints on your development process will pay off in the future.  </p>
+<p>Constraints are much more than just extra challenges!  Well-selected constraints can help you: </p>
 <ul>
-<li>Number of letters in a string</li>
-<li>Is a number even or odd?</li>
-<li>Are there non-letter characters?</li>
-<li>Are all properties in the object defined?</li>
-<li>Will this argument always have a value?</li>
-<li>How are these two arguments related?</li>
+<li>Increase your creativity</li>
+<li>Improve the quality of your finished solution</li>
+<li>Understand challenges in new and unexpected ways</li>
+<li>Learn new things from old or easy challenges</li>
+<li>Practice dealing with common &amp; realistic scenarios</li>
+<li>Focus in on particular techniques, tools, or language features</li>
+<li>Improve project estimation skills</li>
 </ul>
-<p>Write down your findings in your repo&apos;s README.</p>
+<hr>
+<h3 id="constraint-suggestions">Constraint Suggestions</h3>
+<p>At the beginning of your programming journey choosing helpful constraints will be very challenging, and you&apos;re already constrained enough by your lack of experience.  There&apos;s no reason to go wild placing extra difficulties in your way.  That said, there is one constraint we suggest that will help you develop good habits from the beginning:</p>
+<blockquote>
+<p>Think of your functions as return-value factories.</p>
+</blockquote>
+<p>This isn&apos;t as challenging as it sounds and may even help by productively limiting your choices.  Here&apos;s a few pointers for building this kind of function:</p>
+<ul>
+<li>Initialize your function scaffold with the right type of return value at the top</li>
+<li>Initialize your function scaffold by returning the empty return value</li>
+<li>The main task of your function will be to build this empty value into a complete value before returning it</li>
+<li>Never modify your arguments, they should only ever appear on the right hand side of an assignment.  (ie. No matter where in your function you console.log and argument, it will always be the same.)</li>
+</ul>
+<p>More advanced constraint possibilities:</p>
+<ul>
+<li>Work with only certain language features</li>
+<li>Avoid certain language features</li>
+<li>Place a time limit on yourself</li>
+<li>Use a new library, like Lodash</li>
+<li>Write the fewest lines of code you can</li>
+<li>Make your function use the fewest steps possible (as measured by PythonTutor)</li>
+<li>... and so many more!</li>
+</ul>
 <hr>
 <hr>
 <h3 id=""><a href="http://elewa.education/blog" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/34921062-506450ae-f97d-11e7-875f-6feeb26ad72d.png" width="100" height="40"></a></h3>
@@ -517,12 +541,12 @@
 
             
                 
-                <a href="../01-understand-the-challenge/" class="navigation navigation-prev " aria-label="Previous page: 1. Understand the Challenge">
+                <a href="../sections/b-implementation.html" class="navigation navigation-prev " aria-label="Previous page: B. Implementation">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="../03-classify-possible-inputs/" class="navigation navigation-next " aria-label="Next page: 3. Classify Possible Inputs">
+                <a href="../08-estimate-resources/" class="navigation navigation-next " aria-label="Next page: 8. Estimate Resources">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -533,7 +557,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"2. Assess Available Info","level":"1.3.2","depth":2,"next":{"title":"3. Classify Possible Inputs","level":"1.3.3","depth":2,"path":"03-classify-possible-inputs/README.md","ref":"./03-classify-possible-inputs/README.md","articles":[]},"previous":{"title":"1. Understand the Challenge","level":"1.3.1","depth":2,"path":"01-understand-the-challenge/README.md","ref":"./01-understand-the-challenge/README.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["collapsible-chapters"],"pluginsConfig":{"collapsible-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"02-assess-available-info/README.md","mtime":"2018-04-08T17:45:04.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2018-04-08T19:10:52.661Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"7. Place Constraints","level":"1.4.1","depth":2,"next":{"title":"8. Estimate Resources","level":"1.4.2","depth":2,"path":"08-estimate-resources/README.md","ref":"./08-estimate-resources/README.md","articles":[]},"previous":{"title":"B. Implementation","level":"1.4","depth":1,"path":"sections/b-implementation.md","ref":"./sections/b-implementation.md","articles":[{"title":"7. Place Constraints","level":"1.4.1","depth":2,"path":"07-place-constraints/README.md","ref":"./07-place-constraints/README.md","articles":[]},{"title":"8. Estimate Resources","level":"1.4.2","depth":2,"path":"08-estimate-resources/README.md","ref":"./08-estimate-resources/README.md","articles":[]},{"title":"9. Scaffold Your Solution","level":"1.4.3","depth":2,"path":"09-scaffold-your-solution/README.md","ref":"./09-scaffold-your-solution/README.md","articles":[]},{"title":"10. Fill in the Gaps","level":"1.4.4","depth":2,"path":"10-fill-in-the-gaps/README.md","ref":"./10-fill-in-the-gaps/README.md","articles":[]},{"title":"11. Polish Your Solution","level":"1.4.5","depth":2,"path":"11-polish-your-solution/README.md","ref":"./11-polish-your-solution/README.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["collapsible-chapters"],"pluginsConfig":{"collapsible-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"07-place-constraints/README.md","mtime":"2018-04-08T17:25:13.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2018-04-08T19:10:52.661Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
