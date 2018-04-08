@@ -1,6 +1,9 @@
 ## Implementation
 
-plan & execute your solution's implementation in a structured & organized way
+
+Build strong procedural habits.  The more consistently you perform, the more reliably you can plan and estimate your projects.  
+
+Learn how to use simple processes to maximize your performance, isolate the tricky bits, save steps, and validate your work as you go.
 
 ___
 ___

@@ -1,10 +1,8 @@
 ## Reflection
 
-Reflect on the development process you just went through, learn from your successes and mistakes.
+Look back over the project you just finished. What did you do well? What can you improve for next time?  How does your solution compare to others?
 
-Put the finishing touches on your repository to present a polished finished product
-
-Now that you know what you'd do, look around and see what others did.
+Put your final thoughts into a self-assessment. 
 
 ___
 ___

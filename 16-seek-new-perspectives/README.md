@@ -1,6 +1,6 @@
 # Seek New Perspectives
 
-Now that you've done the best you can, ask someone else for feedback.
+You've done the best you can, now ask someone else for their feedback.
 
 1. Create a new folder in your repository call "code-reviews" and place a new copy of the [class code-review template](https://github.com/April-2018-Elewa-Academy/code-review-checklist/blob/master/0-first-checklist.md). 
 2. Fill out the pre-review section.

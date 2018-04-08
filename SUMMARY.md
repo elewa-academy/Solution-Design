@@ -6,7 +6,7 @@
   * [1. Understand the Challenge](./01-understand-the-challenge/README.md)
   * [2. Assess Available Info](./02-assess-available-info/README.md)
   * [3. Classify Possible Inputs](./03-classify-possible-inputs/README.md)
-  * [4. Construct Test Cases](./04-construct-test-caes/README.md)
+  * [4. Construct Test Cases](./04-construct-test-cases/README.md)
   * [5. Explore Possible Strategies](./05-explore-possible-strategies/README.md)
   * [6. Commit to a Strategy](./06-commit-to-a-strategy/README.md)
 * [B. Implementation](./sections/b-implementation.md)
