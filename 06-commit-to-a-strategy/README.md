@@ -1,12 +1,17 @@
 # Commit to a Strategy
 
-Choose one of your possible strategies and commit to using it in your implementation.  Describe it in the "strategy" section of your README.
+Choose one of your possible strategies and commit to using it in your implementation.  Describe it in the "strategy" section of your README, and explain why you selected this one.
 
 Turn the remaining strategies you did not use into new markdowns in the "/pseudo-solutions" directory.  In each file have:
 * Pseudocode for this strategy
 * A description of the strategy
 * How it compares to the other strategies you developed
 
+___
+
+## Resources
+
+* [JavaScript Pseudocode](http://dondi.lmu.build/share/intro/pseudocode2js-v02.pdf) 
 
 ___
 ___

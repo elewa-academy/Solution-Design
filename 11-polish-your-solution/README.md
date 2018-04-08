@@ -5,9 +5,13 @@ Now that your solution passes all of the tests, it's time to put on the finishin
   * Check that your variable names are clear and helpful
   * Make sure your code is well-formatted
   * Double check that your strategy is easy to understand just from reading the source code
-2. Paste it into "solution.js"
-3. Fill out the "Language Features" section of your README
+2. Fill out the "Language Features" section of your README
 
+___
+
+## Resources
+
+* [Writing Clean Code](https://github.com/elewa-academy/General-Resources/blob/master/programming-resources/clean-code.md)
 
 
 ___
