@@ -63,6 +63,7 @@ Kata Repositories:
 
 
 Problem Solving Resources: 
+* [Solution Design](http://elewa.education/2018/01/20/solution-design/)
 * [Writing Clean Code](https://github.com/elewa-academy/General-Resources/blob/master/programming-resources/clean-code.md)
 * [Code Specs](https://github.com/elewa-academy/General-Resources/blob/master/programming-resources/specs.md)
 * [Simplest Passing Functions](https://github.com/elewa-academy/General-Resources/tree/master/programming-resources/simplestPassingFuncs)

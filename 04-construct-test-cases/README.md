@@ -4,6 +4,11 @@ Construct 2+ test cases for each classification you created in the last step.  T
 
 After you have constructed your test cases, write them into "/tests/test-cases.js" in your repo.  These are the tests your complete solution will have to pass.
 
+___
+
+## Resources
+
+* [Testing 101](https://github.com/elewa-academy/General-Resources/blob/master/programming-resources/testing-101.md) 
 
 ___
 ___

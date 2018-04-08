@@ -6,6 +6,7 @@ Choose one chunk at a time, and code it!
 * Pass all tests from one chunk before moving on
 * Include any interesting bugs you come across in your (De)bug-off notebook, either as challenges or as solutions
 * Work in "solution.js" so you can run your tests directly in the browser
+* Fall back on procedures & features you're already comfortable with (unless you've constraints against this).
 
 This process is very similar to Test Driven Development.  Practicing passing one set of tests at a time right now will make learning TDD much easier in the future.
 

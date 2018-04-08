@@ -18,7 +18,7 @@ ___
 
 ## GitHub Work-Flow Diagram
 
-
+![](./solution-design-workflow.png)
 
 ___
 

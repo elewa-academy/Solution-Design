@@ -1,28 +1,30 @@
 # Scaffold Your Solution
 
+One of the keys to working efficiently is to manage cognitive load - the amount of information your brain handles at any given moment. We find there are two very important rules that will help you keep a clear head:
+1. Use cognitive tools like clear code, good habits, useful diagrams, careful planning, and isolation techniques to lighten the load on your working memory.
+2. Don't work on anything you can't hold in your head all at once.
+  * If you find there's too much going to keep straight, you probably did a bad job with # 1.
 
-use gists
-	create new file in gist for each new bit of scaffolding
-try to isolate sets of test cases with your scaffolding
-think of your function as a return value factory
-	- this will take some time
-	initialize empty at top of function
-	build solution it in stages
-	return it at the end
-	think of arguments as read-only
-steps
-	function, args & return values
+Building a scaffold for your solution before attempting to pass any tests will go a long way towards lightening your mental workload. A well-designed scaffold will:
+* Promote breaking down large challenges into smaller ones
+* Isolate independent elements of your solution
+* Guarantee your solution has the right structure
+* Defend against certain types of logic bugs
+* Enable you to break up your work time without losing track of where you are
+* Writing readable solutions
+* Encourage good design habits by committing to them ahead of time
+* Prepare you for TDD
+
+Designing your scaffolding is tricky, it will require time and experience before you can expect to do it quickly. Here are a few suggestions to get you started:
+* Develop your scaffolding in a Gist, adding a new file for each iteration.
+* Begin by naming your function, writing in all arguments, declaring an empty return value, and returning the empty value.
+* Build your scaffolding in small steps, converting your solution pseudocode into real code whenever you can.
+* Your scaffolding will consist largely of control flow (ie. loops, conditionals, and short procedures)
+* Stop each time you have isolated the lines of code that will implement a test category.  Put in a comment indicating what logic goes there for later on.
 
 
--- from old template --
 
-Using plain sentences and pseudocode, explain the process you followed from reading the Codewar prompt to coding your final solution.  Describe what you were thinking at every step, how that step moved you forward (or backwards, note that too!), and provide a little pseudocode to illustrate each step.
 
-This may feel tedious but we promise you it will pay off in the long run.  By paying attention to you thinking process you will start to notice what strategies work for you, which strategies you use too often, and where you struggle.  Even more importantly, writing out your process will help you generalize your problem solving skills - taking them from the world of coding small challenges to the world of application development.
-
-If you find yourself getting stuck or having trouble understanding just what you're supposed to do, try taking a few simple examples inputs and solving them by hand.  This will make the problem more tangible and less abstract.  Be sure to include these manual solutions in your process description!
-
-Stick with it!  It's best to learn how to analyze your thinking while the problems are simpler.  You don't want to be trying to understand a full project __and__ your problem solving style a the same time.
 
 ___
 
