@@ -8,7 +8,11 @@ Tips & Tricks:
 * Play around with specific test-cases 
 * Imagine realistic use-cases
 * Find ways to build your solution from smaller, repetitive, processes
-* Read other people's solutions, study them in PythonTutor
+* Study other people's completed solutions:
+  * Run their code in PythonTutor
+  * Analyze their strategy
+  * Analyze their use of language features
+  * Complete an "other-people-solutions" template markdown
 
 ___
 

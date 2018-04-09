@@ -1,6 +1,7 @@
 # Study Other Solutions
 
-Study 2+ other solutions to the same problem.  For each solution you study, fill out a new markdown file:
+
+Study 2+ other solutions to the same problem.  Even if you've already studied other solutiosn in step 5, you'll learn new lessons now that you've completed it for yourself.  For each solution you study, fill out a new markdown file:
 * Link to the solution hosted on CodeWars
 * Solution included as a snippet
 * Analyze their strategy. Compare it to yours & others you've seen
