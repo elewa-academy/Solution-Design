@@ -9,6 +9,7 @@ As a developer, you are very rarely solving a challenge that has been exactly so
 You must manage your time and your patience to maximize your efforts.  By spending extra time understanding the challenge then even more selecting the correct constraints for yourself, you will be saving yourself and your team time in the future.
 
 > “Given one hour to save the world, I would spend 55 minutes defining the challenge and 5 minutes finding the solution.” ~ _Albert Einstein_
+
 ___
 ___
 ### <a href="http://elewa.education/blog" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/34921062-506450ae-f97d-11e7-875f-6feeb26ad72d.png" width="100" height="40"/></a>
