@@ -7,12 +7,14 @@
     * Link the title to your Kata
 3. Create a new repo on your GH account 
     * Name it after the Kata 
+4. Add the new repo as a remote from your terminal ("git remote add ...")
+5. Git push to your new repo
+6. Update your github repository:
     * Change the gh-pages settings to build from master
     * Add a link to your live tests in the repo description
-4. Add links to the repository and live tests in your Solution Design Gallery. 
-5. Add the new repo as a remote from your terminal ("git remote add ...")
-6. Work on the challenge from your local text editor, running tests from the browser with "index.html". 
-7. Save your work by pushing to your GitHub account
+7. Add links to the repository and live tests in your Solution Design Gallery. 
+8. Work on the challenge from your local text editor, running tests from the browser with "index.html". 
+9. Save your work by pushing to your GitHub account
 
 ___
 
