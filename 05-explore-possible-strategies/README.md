@@ -8,6 +8,7 @@ Tips & Tricks:
 * Play around with specific test-cases 
 * Imagine realistic use-cases
 * Find ways to build your solution from smaller, repetitive, processes
+* Read other people's solutions
 
 ___
 
