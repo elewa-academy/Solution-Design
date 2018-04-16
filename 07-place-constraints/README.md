@@ -27,6 +27,7 @@ This isn't as challenging as it sounds and may even help by productively limitin
 * Initialize your function scaffold by returning the empty return value
 * The main task of your function will be to build this empty value into a complete value before returning it
 * Never modify your arguments, they should only ever appear on the right hand side of an assignment.  (ie. No matter where in your function you console.log and argument, it will always be the same.)
+* (Read through [Lodash](https://github.com/lodash/lodash) to see this constraint in action.)
 
 
 More advanced constraint possibilities:
