@@ -20,7 +20,7 @@ ___
 
 At the beginning of your programming journey choosing helpful constraints will be very challenging, and you're already constrained enough by your lack of experience.  There's no reason to go wild placing extra difficulties in your way.  That said, there is one constraint we suggest that will help you develop good habits from the beginning:
 
-> Think of your functions as return-value factories.
+> Think of your functions as return-value photo copiers.
 
 This isn't as challenging as it sounds and may even help by productively limiting your choices.  Here's a few pointers for building this kind of function:
 * Initialize your function scaffold with the right type of return value at the top
