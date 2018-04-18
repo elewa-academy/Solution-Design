@@ -74,7 +74,7 @@ Problem Solving Resources:
 
 
 Visualizing JavaScript Execution:
-* [PythonTutor/JavaScript](http://pythontutor.com/javascript)
+* [PythonTutor/JavaScript](http://www.pythontutor.com/javascript.html#mode=edit)
 * [Chrome Debugger](https://developer.dynamsoft.com/dwt/kb/2873)
 
 Kata Recommendations:
