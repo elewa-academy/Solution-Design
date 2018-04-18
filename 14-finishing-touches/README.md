@@ -6,7 +6,7 @@ Fill in the last sections of your repository that you might have missed along th
 * Make a final sweep over each directory & file making sure everything is the best you can make it
 
 Make your index.html tests pages a full landing page:
-* Create HTML head, body, ...
+* [Fill out your index.html](https://www.sitepoint.com/a-basic-html5-template/) 
 * Require the UI component
 * Connect your solution with a text input and event listener
 * Invite people to inspect your tests
