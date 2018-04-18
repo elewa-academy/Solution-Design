@@ -6,6 +6,7 @@
     * Re-title the README
     * Link the title to your Kata
 3. Create a new repo on your GH account 
+    * _Do not initialize with a README_
     * Name it after the Kata 
 4. Add the new repo as a remote from your terminal ("git remote add ...")
 5. Git push to your new repo
