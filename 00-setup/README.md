@@ -26,6 +26,7 @@ ___
 
 ## Resources
 
+* [Cloning a Repo](https://help.github.com/articles/cloning-a-repository/)
 * [Adding Remote Repos](https://help.github.com/articles/adding-a-remote/)
 
 ___
