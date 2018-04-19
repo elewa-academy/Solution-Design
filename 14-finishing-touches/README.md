@@ -2,7 +2,6 @@
 
 Fill in the last sections of your repository that you might have missed along the way:
 * Come up with 3+ use cases if your haven't already
-* Finish filling in your README's learning journal 
 * Make a final sweep over each directory & file making sure everything is the best you can make it
 
 Make your index.html tests pages a full landing page:
