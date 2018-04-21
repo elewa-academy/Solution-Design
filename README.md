@@ -41,7 +41,7 @@ Don't forget to build a gallery page for your Kata Repos and to feature it on yo
 
 The Process:
 0. Add a Solution Design Gallery to your portfolio
-1. Choose an interesting CodeWars Kata and use it to follow the [Solution Design Guide](https://elewa-academy.github.io/Solution-Design/) GitBook. Each Kata you complete will add another repository to your Solution Design Gallery
+1. Choose an interesting CodeWars Kata and use it to follow this GitBook's steps, and to complete one of these [Template Repos](https://github.com/elewa-academy/solution-design-template). Each Kata you complete will add another repository to your Solution Design Gallery.
 
 
 This project never ends!  Set a goal to add 3+ Kata Repos to your gallery each week.
@@ -57,8 +57,8 @@ Whether you're struggling with 7 Kyu challenges or writing 1 Kyu challenges, com
 ## Resources
 
 Kata Repositories:
-* [Solution Design Process Guide](https://elewa-academy.github.io/Solution-Design/).  This GitBook will guide you through each step of the project, including instructions for how to complete the template repo.
 * [Template Repo](https://github.com/elewa-academy/solution-design-template).  You will need to clone and complete this repo for every kata you do.  These repos & live tests are what you will feature in your Solution Design Gallery.
+* Example Repository: [Code](https://github.com/elewa-student/simple-elevator), [Demo](https://elewa-student.github.io/simple-elevator/)
 
 
 
